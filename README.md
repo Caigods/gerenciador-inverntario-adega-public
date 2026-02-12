@@ -30,12 +30,18 @@ Integridade de Dados: Uso da anotação @Transactional para garantir que operaç
 
 🛤️ Endpoints Principais
 Método,Endpoint,Função
+
 POST /bebidas,Cadastra uma nova bebida no sistema.
+
 GET /bebidas,Lista todas as bebidas cadastradas.
+
 GET /bebidas/{id},Recupera uma bebida específica pelo seu ID.
+
 GET /bebidas/nome?nome=...,Filtra bebidas por nome ou parte dele.
+
 PUT /bebidas/{id},Atualiza os dados de uma bebida existente.
-DELETE,/bebidas/{id},Remove uma bebida da base de dados.
+
+DELETE /bebidas/{id},Remove uma bebida da base de dados.
 
 🏗️ Como Executar
 Para rodar a aplicação localmente:
