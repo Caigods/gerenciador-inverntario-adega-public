@@ -1,5 +1,5 @@
 🍷 Adega API
-Bem-vindo ao projeto Adega API! Este é um sistema de gerenciamento de bebidas desenvolvido por Caique Godinho Santo (Caigods). O projeto foi criado com fins educacionais para consolidar conhecimentos no ecossistema Spring Boot e arquitetura REST.
+Bem-vindo ao projeto Adega API! Este é um sistema de gerenciamento de bebidas desenvolvido por Caique Godinho (Caigods). O projeto foi criado com fins educacionais para consolidar conhecimentos no ecossistema Spring Boot e arquitetura REST.
 
 A aplicação permite realizar o ciclo completo de um CRUD (Create, Read, Update, Delete) de bebidas, integrando regras de negócio personalizadas para o controle de estoque e envelhecimento.
 
